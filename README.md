@@ -55,23 +55,27 @@
 ### Cloud Computing:
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,azure,spark" />
+        <img src="https://skillicons.dev/icons?i=aws,azure" />
+    </a>
+    <!-- Custom Spark Logo -->
+    <a href="https://spark.apache.org/">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-spark-logo-icon-download-in-svg-png-gif-file-formats--devicons-pack-design-development-icons-458193.png?f=webp" alt="Spark" width="50" />
     </a>
 </p>
 
 ### Project Management:
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=jira,confluence" />
+    <!-- Custom Jira Logo -->
+    <a href="https://www.atlassian.com/software/jira">
+        <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" alt="Jira" width="50" />
+    </a>
+    <!-- Custom Confluence Logo -->
+    <a href="https://www.atlassian.com/software/confluence">
+        <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" alt="Confluence" width="50" />
     </a>
 </p>
 
-### Languages:
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=english,catalan,spanish" />
-    </a>
-</p>
+
 
 
 

@@ -3,7 +3,7 @@
     <p align="center">Data Engineer | Data Analyst</p>
 </header>
 
-div class="typing-effect">
+<div class="typing-effect">
     Turning data into insights is not just a skill it's the power to shape the future
 </div>
 

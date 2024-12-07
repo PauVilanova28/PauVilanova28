@@ -90,15 +90,19 @@
     <!-- Email with Copy Option -->
     <strong>Email:</strong> 
     <span id="email">28pauvilanova@gmail.com</span>
+    <a href="mailto:28pauvilanova@gmail.com" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" alt="Gmail" width="30" />
+    </a>
   </p>
   <p align="center">
     <!-- LinkedIn Link -->
     <strong>LinkedIn:</strong>
-    <a href="www.linkedin.com/in/pau-vilanova-castellana-171b6a273" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="30" />
+    <a href="https://www.linkedin.com/in/pau-vilanova-castellana-171b6a273" target="_blank">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" alt="LinkedIn" width="30" />
     </a>
   </p>
 </section>
+
 
 
 

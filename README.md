@@ -1,11 +1,12 @@
 <header>
     <h1 align="center">Pau Vilanova Castellana  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-    <p align="center">Data Engineer | Data Analyst</p>
+    <p align="center">Data Engineer | Data Analyst | AI Engineer</p>
 </header>
 
-<div align="center" style="color: red; font-size: 20px; font-weight: bold;">
-    "Turning data into insights is not just a skill, it's the power to shape the future"
-</div>
+<p align="center">
+    <strong>"Turning data into insights is not just a skill, it's the power to shape the future"</strong>
+</p>
+
 
 <section>
     <h2>About Me</h2>

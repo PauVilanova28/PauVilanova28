@@ -79,14 +79,6 @@
 
 
 
-<section>
-    <h2>Repositories</h2>
-    <ul class="repo-list">
-        <li><a href="https://github.com/username/repository1" target="_blank">Project 1: Repository Name</a> - Brief description of the project.</li>
-        <li><a href="https://github.com/username/repository2" target="_blank">Project 2: Repository Name</a> - Brief description of the project.</li>
-        <li><a href="https://github.com/username/repository3" target="_blank">Project 3: Repository Name</a> - Brief description of the project.</li>
-    </ul>
-</section>
 
 </body>
 </html>

@@ -91,7 +91,7 @@
     <a href="mailto:28pauvilanova@gmail.com" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" alt="Gmail" width="30" />
     </a>
-    <span id="email">28pauvilanova@gmail.com</span>
+    <span id="email">: 28pauvilanova@gmail.com</span>
   </p>
   <p align="center">
     <!-- LinkedIn Icon -->

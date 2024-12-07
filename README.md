@@ -20,7 +20,7 @@
 ### Coding Languages:
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,r,sql,mongodb,neo4j,redis,bash,matlab" />
+        <img src="https://skillicons.dev/icons?i=python,c,r,mysql,mongodb,redis,bash,matlab" />
     </a>
 </p>
 

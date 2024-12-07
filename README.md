@@ -71,7 +71,7 @@
     </a>
     <!-- Custom Confluence Logo -->
     <a href="https://www.atlassian.com/software/confluence">
-        <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" alt="Confluence" width="50" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqbA1Naz-O1H49safhZnTZvgoUqmrIOpQyg&s.jpg alt="Confluence" width="50" />
     </a>
 </p>
 

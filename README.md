@@ -20,7 +20,7 @@
 ### Coding Languages:
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,r,mysql,mongodb,redis,bash,matlab" />
+        <img src="https://skillicons.dev/icons?i=python,c,r,sql,mongodb,neo4j,redis,bash,matlab" />
     </a>
 </p>
 
@@ -65,6 +65,14 @@
         <img src="https://skillicons.dev/icons?i=jira,confluence" />
     </a>
 </p>
+
+### Languages:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=english,catalan,spanish" />
+    </a>
+</p>
+
 
 
 <section>

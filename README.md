@@ -87,21 +87,20 @@
 <section id="contact-me">
   <h2 align="center">Contact Me</h2>
   <p align="center">
-    <!-- Email with Copy Option -->
-    <strong>Email:</strong> 
-    <span id="email">28pauvilanova@gmail.com</span>
+    <!-- Gmail Icon and Email -->
     <a href="mailto:28pauvilanova@gmail.com" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" alt="Gmail" width="30" />
     </a>
+    <span id="email">28pauvilanova@gmail.com</span>
   </p>
   <p align="center">
-    <!-- LinkedIn Link -->
-    <strong>LinkedIn:</strong>
+    <!-- LinkedIn Icon -->
     <a href="https://www.linkedin.com/in/pau-vilanova-castellana-171b6a273" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg?raw=true" alt="LinkedIn" width="30" />
     </a>
   </p>
 </section>
+
 
 
 

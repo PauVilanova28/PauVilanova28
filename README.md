@@ -89,29 +89,18 @@
   <p align="center">
     <!-- Email with Copy Option -->
     <strong>Email:</strong> 
-    <button onclick="copyEmail()" id="copy-button">Copy Email</button>
-    <span id="email">pau.vilanova@example.com</span>
+    <span id="email">28pauvilanova@gmail.com</span>
   </p>
   <p align="center">
     <!-- LinkedIn Link -->
     <strong>LinkedIn:</strong>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <a href="www.linkedin.com/in/pau-vilanova-castellana-171b6a273" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="30" />
     </a>
   </p>
 </section>
 
-<script>
-  // Function to copy the email to clipboard
-  function copyEmail() {
-    const email = document.getElementById("email").textContent;
-    navigator.clipboard.writeText(email).then(() => {
-      alert("Email copied to clipboard!");
-    }).catch(err => {
-      alert("Failed to copy email: " + err);
-    });
-  }
-</script>
+
 
 
 

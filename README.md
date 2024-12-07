@@ -29,31 +29,24 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=tensorflow" />
     </a>
-    <!-- Custom PyTorch Icon placed next to TensorFlow -->
     <a href="https://pytorch.org/">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkXAX0dktt_m0m5341SswX_UXJpgwMTUPLw&s" alt="PyTorch" width="50" />
     </a>
-    <!-- Custom Keras Logo -->
     <a href="https://keras.io/">
         <img src="https://datasolut.com/wp-content/uploads/2019/09/keras-logo-2018-large-1200.png" alt="Keras" width="50" />
     </a>
-    <!-- Custom scikit-learn Logo -->
     <a href="https://scikit-learn.org/">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="scikit-learn" width="50" />
     </a>
-    <!-- Custom NumPy Logo -->
     <a href="https://numpy.org/">
         <img src="https://miro.medium.com/v2/resize:fit:500/1*AUDee8Byf_3CCDx_zCM1pA.jpeg" alt="NumPy" width="50" />
     </a>
-    <!-- Custom Pandas Logo -->
     <a href="https://pandas.pydata.org/">
         <img src="https://storage.googleapis.com/images.smartproxy.com/medium_Python_Pandas_1_cc44acf7dc/medium_Python_Pandas_1_cc44acf7dc.png" alt="Pandas" width="50" />
     </a>
-    <!-- Custom Matplotlib Logo -->
     <a href="https://matplotlib.org/">
         <img src="https://anvil.works/blog/img/plotting-in-python/thumbnail-matplotlib.png" alt="Matplotlib" width="50" />
     </a>
-    <!-- Custom Jupyter Logo -->
     <a href="https://jupyter.org/">
         <img src="https://friconix.com/jpg/fi-xnsuxx-jupyter-notebook.jpg" alt="Jupyter" width="50" />
     </a>

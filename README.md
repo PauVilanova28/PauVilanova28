@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi , I'm Pau Vilanova </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">Data Engineer | Data Analyst</h3>
+<h1 align="center"><b>Hi , I'm Pau Vilanova \n Data Engineer | Data Analyst </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center">D</h3>
 
 
 <section>

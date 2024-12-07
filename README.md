@@ -1,6 +1,6 @@
 <header>
-    <h1>Pau Vilanova Castellana  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-    <p>Data Engineer | Data Analyst</p>
+    <h1 align="center">Pau Vilanova Castellana  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+    <p align="center">Data Engineer | Data Analyst</p>
 </header>
 
 <section>

@@ -3,38 +3,7 @@
     <p align="center">Data Engineer | Data Analyst</p>
 </header>
 
-<div class="typing-effect">
-    Turning data into insights is not just a skill it's the power to shape the future
-</div>
-
-<style>
-    .typing-effect {
-        font-size: 1.5rem;
-        font-weight: bold;
-        color: #007acc;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 3px solid #007acc;
-        width: 0;
-        animation: typing 4s steps(60, end), blink 0.5s step-end infinite alternate;
-    }
-    @keyframes typing {
-        from {
-            width: 0;
-        }
-        to {
-            width: 100%;
-        }
-    }
-    @keyframes blink {
-        from {
-            border-color: transparent;
-        }
-        to {
-            border-color: #007acc;
-        }
-    }
-</style>
+**"Turning data into insights is not just a skill, it's the power to shape the future"**
 
 <section>
     <h2>About Me</h2>

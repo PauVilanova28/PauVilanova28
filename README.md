@@ -15,16 +15,43 @@
     </p>
 </section>
 
-<section>
-    <h2>Skills</h2>
-    <ul>
-        <li><strong>Coding Languages:</strong> Python, C, R, SQL, MongoDB, Neo4j, Redis, Bash, Matlab</li>
-        <li><strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, Scikit-learn, Keras, NumPy, Pandas, Matplotlib</li>
-        <li><strong>Cloud Computing:</strong> AWS, Spark, Azure</li>
-        <li><strong>Project Management:</strong> Confluence, Agile Methodology, Jira</li>
-        <li><strong>Languages:</strong> Catalan (Native), Spanish (Native), English (B2-C1)</li>
-    </ul>
-</section>
+## Skills
+
+### Coding Languages:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,r,sql,mongodb,neo4j,redis,bash,matlab" />
+    </a>
+</p>
+
+### Libraries & Frameworks:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit,pyytorch,matplotlib" />
+    </a>
+</p>
+
+### Cloud Computing:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,azure,spark" />
+    </a>
+</p>
+
+### Project Management:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=jira,confluence" />
+    </a>
+</p>
+
+### Languages:
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=english,catalan,spanish" />
+    </a>
+</p>
+
 
 <section>
     <h2>Repositories</h2>

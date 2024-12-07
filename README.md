@@ -30,7 +30,6 @@
         <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikit,matplotlib" />
     </a>
     <br>
-    <!-- Custom PyTorch Icon -->
     <a href="https://pytorch.org/">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkXAX0dktt_m0m5341SswX_UXJpgwMTUPLw&s" alt="PyTorch" width="50" />
     </a>

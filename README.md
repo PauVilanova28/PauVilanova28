@@ -3,7 +3,9 @@
     <p align="center">Data Engineer | Data Analyst</p>
 </header>
 
-**"Turning data into insights is not just a skill, it's the power to shape the future"**
+<div align="center" style="color: red; font-size: 20px; font-weight: bold;">
+    "Turning data into insights is not just a skill, it's the power to shape the future"
+</div>
 
 <section>
     <h2>About Me</h2>

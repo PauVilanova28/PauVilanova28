@@ -27,39 +27,39 @@
 ### Libraries & Frameworks:
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tensorflow" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" />
     </a>
     <a href="https://pytorch.org/">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkXAX0dktt_m0m5341SswX_UXJpgwMTUPLw&s" alt="PyTorch" width="50" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkXAX0dktt_m0m5341SswX_UXJpgwMTUPLw&s" alt="PyTorch" width="50" height="50" />
     </a>
     <a href="https://keras.io/">
-        <img src="https://datasolut.com/wp-content/uploads/2019/09/keras-logo-2018-large-1200.png" alt="Keras" width="50" />
+        <img src="https://datasolut.com/wp-content/uploads/2019/09/keras-logo-2018-large-1200.png" alt="Keras" width="50" height="50" />
     </a>
     <a href="https://scikit-learn.org/">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="scikit-learn" width="50" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="scikit-learn" width="50" height="50" />
     </a>
     <a href="https://numpy.org/">
-        <img src="https://miro.medium.com/v2/resize:fit:500/1*AUDee8Byf_3CCDx_zCM1pA.jpeg" alt="NumPy" width="50" />
+        <img src="https://miro.medium.com/v2/resize:fit:500/1*AUDee8Byf_3CCDx_zCM1pA.jpeg" alt="NumPy" width="50" height="50" />
     </a>
     <a href="https://pandas.pydata.org/">
-        <img src="https://storage.googleapis.com/images.smartproxy.com/medium_Python_Pandas_1_cc44acf7dc/medium_Python_Pandas_1_cc44acf7dc.png" alt="Pandas" width="50" />
+        <img src="https://storage.googleapis.com/images.smartproxy.com/medium_Python_Pandas_1_cc44acf7dc/medium_Python_Pandas_1_cc44acf7dc.png" alt="Pandas" width="50" height="50" />
     </a>
     <a href="https://matplotlib.org/">
-        <img src="https://anvil.works/blog/img/plotting-in-python/thumbnail-matplotlib.png" alt="Matplotlib" width="50" />
+        <img src="https://anvil.works/blog/img/plotting-in-python/thumbnail-matplotlib.png" alt="Matplotlib" width="50" height="50" />
     </a>
     <a href="https://jupyter.org/">
-        <img src="https://friconix.com/jpg/fi-xnsuxx-jupyter-notebook.jpg" alt="Jupyter" width="50" />
+        <img src="https://friconix.com/jpg/fi-xnsuxx-jupyter-notebook.jpg" alt="Jupyter" width="50" height="50" />
     </a>
 </p>
 
 ### Cloud Computing:
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,azure" />
+        <img src="https://skillicons.dev/icons?i=aws,azure" width="50" height="50" />
     </a>
     <!-- Custom Spark Logo -->
     <a href="https://spark.apache.org/">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-spark-logo-icon-download-in-svg-png-gif-file-formats--devicons-pack-design-development-icons-458193.png?f=webp" alt="Spark" width="50" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-spark-logo-icon-download-in-svg-png-gif-file-formats--devicons-pack-design-development-icons-458193.png?f=webp" alt="Spark" width="50" height="50" />
     </a>
 </p>
 
@@ -67,13 +67,14 @@
 <p align="center">
     <!-- Custom Jira Logo -->
     <a href="https://www.atlassian.com/software/jira">
-        <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" alt="Jira" width="50" />
+        <img src="https://i.pinimg.com/736x/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.jpg" alt="Jira" width="50" height="50" />
     </a>
     <!-- Custom Confluence Logo -->
     <a href="https://www.atlassian.com/software/confluence">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqbA1Naz-O1H49safhZnTZvgoUqmrIOpQyg&s" alt="Confluence" width="50" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqbA1Naz-O1H49safhZnTZvgoUqmrIOpQyg&s" alt="Confluence" width="50" height="50" />
     </a>
 </p>
+
 
 
 <section id="stats">

@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center">Hi, I'm Pau Vilanova Castellana  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+    <h1 align="center">Hi, I'm Pau Vilanova <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
     <p align="center">Data Engineer | Data Analyst | AI Engineer</p>
 </header>
 

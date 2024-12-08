@@ -80,10 +80,20 @@
 <section id="stats">
   <h2 align="center">My GitHub Stats</h2>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauVilanova28&layout=compact&theme=dark" alt="My Github Stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PauVilanova28&&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="My Github Stats">
+    <!-- Lenguajes más usados -->
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauVilanova28&layout=compact&theme=tokyonight" 
+      alt="Most Used Languages">
+    <br />
+    <!-- Estadísticas generales -->
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=PauVilanova28&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+      alt="GitHub Stats">
   </p>
 </section>
+
 
 <section id="contact-me">
   <h2 align="center">Contact Me</h2>
